@@ -1,2 +1,3 @@
 # daily-commit-2
-auto Repo publik kedua
+
+Repo publik kedua untuk latihan dan nambah grafik kontribusi.
